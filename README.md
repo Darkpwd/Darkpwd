@@ -7,11 +7,12 @@
 
 -🔭 Currently, I am working on improving my **Backend skills**.<br>- 🌱 I am currently learning **Python**.<br>- 👯 I am interested in collaborating on **open-source projects**.<br>- 💬 Feel free to ask me about **anything**.  I am always happy to **learn more**.<br>- 📫 You can reach me at **gustavosantana@gmail.com**<br>- ⚡Fun Fact: I love playing **video games** and **i like movies**.<br><br>
 
+📊Weekly Development Breakdown
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
-
-
-
+    
 
 
 
