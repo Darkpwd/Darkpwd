@@ -7,25 +7,15 @@
 
 -🔭 Currently, I am working on improving my **Backend skills**.<br>- 🌱 I am currently learning **Python**.<br>- 👯 I am interested in collaborating on **open-source projects**.<br>- 💬 Feel free to ask me about **anything**.  I am always happy to **learn more**.<br>- 📫 You can reach me at **gustavosantana@gmail.com**<br>- ⚡Fun Fact: I love playing **video games** and **i like movies**.<br><br>
 
-📊Weekly Development Breakdown
-<!--START_SECTION:waka-->
-
-```txt
-From: 02 May 2024 - To: 09 May 2024
-
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
-
-    
 
 
 
-## ⚙Tech Stack:
+
+
+
+
+
+## Programming Languages:
 
 <img align="left" alt="HTML5" src= "https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 
@@ -39,12 +29,18 @@ No activity tracked
 <img align="left" alt="Shell Script" src= "https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 
 <img align="left" alt="C#" src= "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+<br/><br/>
 
+
+
+## Frameworks:
+<img align="left" alt="Flask" src= "https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img align="left" alt="Django" src= "https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 
 
 
 <br/><br/><br/>
-</div>
+
 
 <hr/>
 
