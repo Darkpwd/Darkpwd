@@ -5,7 +5,7 @@
 
 ## 👋About Me:
 
--🔭 Currently, I am working on improving my **Backend skills**.<br>- 🌱 I am currently learning **Python**.<br>- 👯 I am interested in collaborating on **open-source projects**.<br>- 💬 Feel free to ask me about **anything**.  I am always happy to **learn more**.<br>- 📫 You can reach me at oussamaba348@gmail.com.<br>- 😄 Pronouns: <br>- ⚡ Fun Fact: I love playing **video games**.<br><br>
+-🔭 Currently, I am working on improving my **Backend skills**.<br>- 🌱 I am currently learning **Python**.<br>- 👯 I am interested in collaborating on **open-source projects**.<br>- 💬 Feel free to ask me about **anything**.  I am always happy to **learn more**.<br>- 📫 You can reach me at **gustavosantana@gmail.com**<br>- ⚡Fun Fact: I love playing **video games** and **i like movies**.<br><br>
 
 
 
@@ -16,12 +16,21 @@
 
 
 ## ⚙Tech Stack:
-<img align="left" alt="c" src= "https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+
 <img align="left" alt="HTML5" src= "https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-<img align="left" alt="Lua" src= "https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" />
-<img align="left" alt="Python" src= "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+
+<img align="left" alt="CSS-3" src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+<img align="left" alt="Python" src= "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+
+
 <img align="left" alt="JavaScript" src= "https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+
 <img align="left" alt="Shell Script" src= "https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+
+<img align="left" alt="C#" src= "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+
+
 
 
 <br/><br/><br/>
@@ -34,21 +43,17 @@
 <p align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=Sfx00&theme=vue-dark&dates=979797&stroke=00000000&background=00000000&fire=fff&hide_border=true" />
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=Darkpwd&theme=vue-dark&dates=979797&stroke=00000000&background=00000000&fire=fff&hide_border=true" />
     </td>
   </tr>
 </p>
 <div align="center">
   <div style="display: flex; justify-content: space-between;">
-    <img width="390" src="https://github-readme-stats.vercel.app/api?username=Sfx00&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-    <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sfx00&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+    <img width="390" src="https://github-readme-stats.vercel.app/api?username=Darkpwd&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+    <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darkpwd&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
   </div>
 </div>
 
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <img alt="snake eating my contributions" src="https://github.com/Sfx00/Sfx00/blob/output/github-contribution-grid-snake-dark.svg" />
-<hr/>
