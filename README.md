@@ -1,3 +1,6 @@
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Pixelify+Sans&size=32&duration=2600&pause=1000&color=bcbcf2&random=false&width=435&lines=Welcome+to+my+profile+!)
+
+![Github readme banner](https://github.com/Harsh12Codes/Harsh12Codes/assets/83909388/cfc8e6ce-df39-49b4-8ce7-6f540b9bf34f)
 ### Hi, I'm Gustavo Santana! 😃
 
 <div style="display: inline-block; margin-right: 10px;">
@@ -92,4 +95,6 @@
 <p></p>
 <div style="display: inline-block; margin-right: 10px;">
     <img align="center" alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"/>
-</div>
+</div><br/>
+
+Enthralled by the wonders of technology, I am endlessly captivated by its innovation and potential. From sleek hardware to intricate software, each advancement sparks a flame of fascination within me. Technology isn't just a passion—it's a boundless journey of discovery that leaves me utterly enchanted.
