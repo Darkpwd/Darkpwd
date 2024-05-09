@@ -1,100 +1,54 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Pixelify+Sans&size=32&duration=2600&pause=1000&color=bcbcf2&random=false&width=435&lines=Welcome+to+my+profile+!)
 
 ![Github readme banner](https://github.com/Harsh12Codes/Harsh12Codes/assets/83909388/cfc8e6ce-df39-49b4-8ce7-6f540b9bf34f)
-### Hi, I'm Gustavo Santana! 😃
 
-<div style="display: inline-block; margin-right: 10px;">
-    <a href="https://www.python.org">
-        <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-    </a>
-</div>
-<p></p>
-<div style="display: inline-block; margin-right: 10px;">
-    <a href="https://www.r-project.org">
-        <img align="center" alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-    </a>
-</div>
-<p></p>
-<div style="display: inline-block; margin-right: 10px;">
-    <a href="https://www.djangoproject.com">
-        <img align="center" alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-    </a>
-</div>
-<p></p>
-<div style="display: inline-block; margin-right: 10px;">
-    <a href="https://flask.palletsprojects.com">
-        <img align="center" alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-    </a>
-</div>
-<p></p>
-<div style="display: inline-block; margin-right: 10px;">
-    <a href="https://www.mysql.com">
-        <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-    </a>
-</div>
-<p></p>
-<div style="display: inline-block; margin-right: 10px;">
-    <a href="https://aws.amazon.com">
-        <img align="center" alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-    </a>
-</div>
-<p></p>
-<div style="display: inline-block; margin-right: 10px;">
-    <a href="https://www.vim.org">
-        <img align="center" alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"/>
-    </a>
-</div>
-<p></p>
-<div style="display: inline-block; margin-right: 10px;">
-    <a href="https://visualstudio.microsoft.com">
-        <img align="center" alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
-    </a>
-</div>
-<p></p>
-<div style="display: inline-block; margin-right: 10px;">
-    <a href="https://www.rstudio.com">
-        <img align="center" alt="R-Studio" src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white"/>
-    </a>
-</div>
-<p></p>
-<div style="display: inline-block; margin-right: 10px;">
-    <a href="https://code.visualstudio.com">
-        <img align="center" alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-    </a>
-</div>
-<p></p>
-<div style="display: inline-block; margin-right: 10px;">
-    <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Darkpwd&show_icons=true&theme=merko"/>
+
+## 👋About Me:
+
+-🔭 Currently, I am working on improving my **Backend skills**.<br>- 🌱 I am currently learning **Python**.<br>- 👯 I am interested in collaborating on **open-source projects**.<br>- 💬 Feel free to ask me about **anything**.  I am always happy to **learn more**.<br>- 📫 You can reach me at oussamaba348@gmail.com.<br>- 😄 Pronouns: <br>- ⚡ Fun Fact: I love playing **video games**.<br><br>
+
+
+
+
+
+
+
+
+
+## ⚙Tech Stack:
+<img align="left" alt="c" src= "https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+<img align="left" alt="HTML5" src= "https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+<img align="left" alt="Lua" src= "https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" />
+<img align="left" alt="Python" src= "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+<img align="left" alt="JavaScript" src= "https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+<img align="left" alt="Shell Script" src= "https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+
+
+<br/><br/><br/>
 </div>
 
-### Technologies I use in my day
+<hr/>
 
-<div style="display: inline-block; margin-right: 10px;">
-    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<p align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=Sfx00&theme=vue-dark&dates=979797&stroke=00000000&background=00000000&fire=fff&hide_border=true" />
+    </td>
+  </tr>
+</p>
+<div align="center">
+  <div style="display: flex; justify-content: space-between;">
+    <img width="390" src="https://github-readme-stats.vercel.app/api?username=Sfx00&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+    <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sfx00&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  </div>
 </div>
-<p></p>
-<div style="display: inline-block; margin-right: 10px;">
-    <img align="center" alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-</div>
-<p></p>
-<div style="display: inline-block; margin-right: 10px;">
-    <img align="center" alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-</div>
-<p></p>
-<div style="display: inline-block; margin-right: 10px;">
-    <img align="center" alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-</div>
-<p></p>
-<div style="display: inline-block; margin-right: 10px;">
-    <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-</div>
-<p></p>
-<div style="display: inline-block; margin-right: 10px;">
-    <img align="center" alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-</div>
-<p></p>
-<div style="display: inline-block; margin-right: 10px;">
-    <img align="center" alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"/>
-</div><br/>
 
-Enthralled by the wonders of technology, I am endlessly captivated by its innovation and potential. From sleek hardware to intricate software, each advancement sparks a flame of fascination within me. Technology isn't just a passion—it's a boundless journey of discovery that leaves me utterly enchanted.
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <img alt="snake eating my contributions" src="https://github.com/Sfx00/Sfx00/blob/output/github-contribution-grid-snake-dark.svg" />
+<hr/>
