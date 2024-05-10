@@ -1,6 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Pixelify+Sans&size=32&duration=2600&pause=1000&color=bcbcf2&random=false&width=435&lines=Welcome+to+my+profile+!)
 
-![Github readme banner](https://github.com/Harsh12Codes/Harsh12Codes/assets/83909388/cfc8e6ce-df39-49b4-8ce7-6f540b9bf34f)
+
+![33HI](https://github.com/Darkpwd/Darkpwd/assets/151932583/e68b3b1b-8f72-4b98-aefa-b0c45f34f425)
 
 
 ## 👋About Me:
