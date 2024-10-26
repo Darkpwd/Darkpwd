@@ -6,7 +6,7 @@
 
 ## 👋About Me:
 
--🔭 Currently, I am working on improving my **Backend skills**.<br>- 🌱 I am currently learning **Python**.<br>- 👯 I am interested in collaborating on **open-source projects**.<br>- 💬 Feel free to ask me about **anything**.  I am always happy to **learn more**.<br>- 📫 You can reach me at **gustavosantana559@gmail.com**<br>- ⚡Fun Fact: I love playing **video games** and **i like movies**.<br><br>
+-🔭 Currently, I am working on improving my **Fullstack skills**.<br>-👯 I am interested in collaborating on **open-source projects**.<br>- 💬 Feel free to ask me about **anything**.  I am always happy to **learn more**.<br>- 📫 You can reach me at **gustavosantana559@gmail.com**<br>- ⚡Fun Fact: I love playing **video games** and **i like movies**.<br><br>
 
 
 
@@ -35,10 +35,10 @@
 
 
 ## 👨‍💻 Frameworks:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) &nbsp;
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) &nbsp;
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) &nbsp;
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) &nbsp;
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 
