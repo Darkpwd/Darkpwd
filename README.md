@@ -43,12 +43,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Darkpwd&theme=vue-dark&dates=979797&stroke=00000000&background=00000000&fire=fff&hide_border=true" alt="Streak Stats" />
 </p>
 
-<div align="center">
-  <div style="display: flex; justify-content: space-around; align-items: center;">
-    <img width="390" src="https://github-readme-stats.vercel.app/api?username=Darkpwd&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="Readme Stats" />
-    <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darkpwd&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Langs" />
-  </div>
+<!-- Stats Section (Flex Layout for Stats) -->
+<div align="center" style="display: flex; justify-content: space-around; align-items: center; width: 100%; gap: 20px; margin-top: 20px;">
+  <img style="border-radius: 10px;" width="390" src="https://github-readme-stats.vercel.app/api?username=Darkpwd&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="Readme Stats" />
+  <img style="border-radius: 10px;" width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darkpwd&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Langs" />
 </div>
 
 ---
-
